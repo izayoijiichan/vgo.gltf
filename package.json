@@ -1,0 +1,27 @@
+{
+  "name": "izayoi.vgo.gltf",
+  "displayName": "VgoGltf",
+  "description": "VgoGltf is the basic and common definition of glTF.",
+  "version": "1.0.0",
+  "type": "tool",
+  "category": "",
+  "keywords": [
+    "gltf",
+    "glb",
+    "vgo"
+  ],
+  "unity": "2018.4",
+  "unityRelease": "25f1",
+  "author": {
+    "name" : "Izayoi Jiichan"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/izayoijiichan/vgo.gltf/tree/master/LICENSE.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izayoijiichan/vgo.gltf.git"
+  },
+  "dependencies": {}
+}
