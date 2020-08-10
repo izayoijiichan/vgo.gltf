@@ -50,7 +50,7 @@ namespace VgoGltf.Buffers
 
             _Bytes = new byte[capacity];
 
-            Length = _Bytes.Length;
+            Length = 0;
 
             Capacity = capacity;
         }

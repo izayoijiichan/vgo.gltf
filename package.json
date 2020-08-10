@@ -2,7 +2,7 @@
   "name": "izayoi.vgo.gltf",
   "displayName": "VgoGltf",
   "description": "VgoGltf is the basic and common definition of glTF.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "tool",
   "category": "",
   "keywords": [
